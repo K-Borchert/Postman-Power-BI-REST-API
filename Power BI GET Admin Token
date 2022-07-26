@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "bc5b910e-9c7f-4de5-b7ca-e5cd1f567bdc",
+		"name": "Power BI GET Admin Token",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17025063"
+	},
+	"item": [
+		{
+			"name": "GET User Token",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "grant_type",
+							"value": "password",
+							"type": "text"
+						},
+						{
+							"key": "username",
+							"value": "<EMail>",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "<password>",
+							"type": "text"
+						},
+						{
+							"key": "client_id",
+							"value": "<ClientID>",
+							"type": "text"
+						},
+						{
+							"key": "resource",
+							"value": "https://analysis.windows.net/powerbi/api",
+							"type": "text"
+						},
+						{
+							"key": "scope",
+							"value": "openid",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://login.microsoftonline.com/<AzureTenantID>/oauth2/token",
+					"protocol": "https",
+					"host": [
+						"login",
+						"microsoftonline",
+						"com"
+					],
+					"path": [
+						"<AzureTenantID>",
+						"oauth2",
+						"token"
+					]
+				},
+				"description": "..."
+			},
+			"response": []
+		}
+	]
+}
