@@ -1,4 +1,4 @@
-# Postman-Power-BI-REST-API
+# Postman-Power-BI-REST-API (in progress)
 This repository contains instructions on how to use Postman and Power BI REST API together.
 Let's start our Journey with how to get an Account in Postman.
 1. Starting with creating an Account here: https://web.postman.co/
