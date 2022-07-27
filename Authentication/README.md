@@ -32,7 +32,27 @@ Click on body to fill in the needed Information to access the Power BI Service w
 
 <img width="928" alt="image" src="https://user-images.githubusercontent.com/63601923/181077479-1f5f1c1c-f16c-4168-b546-3e3b32ff8fd8.png">
 
-You got the Information you needed from the Power BI Service
+These information you need to fill out:
+
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/63601923/181199056-6d232b55-7022-4cfe-8ed1-9219b815bbd9.png">
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/63601923/181199886-f5f6fbce-6d0f-4aa7-b49b-4075f6b74be8.png">
+
+
+The Client ID you can get from your App you have created befor (see Folder: Prerequisites)
+
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/63601923/181199612-dc87a567-4035-48b0-ad49-c0c229f1e799.png">
+
+
+The Tenant ID you can find in the Azure Portal in the Azure Active Directory (https://portal.azure.com/)
+
+<img width="211" alt="image" src="https://user-images.githubusercontent.com/63601923/181200487-4c2a8d7d-ba7b-4379-bad3-b926cd2b50d0.png">
+
+
+<img width="659" alt="image" src="https://user-images.githubusercontent.com/63601923/181200335-950debe4-c035-4117-8a7e-51f3f8660d72.png">
+
+Now your should be able to fill out the response
+
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/63601923/181201351-019c3edf-00df-4a54-bd2b-2e3a0707f37f.png">
 
 
 Positive response & Token
