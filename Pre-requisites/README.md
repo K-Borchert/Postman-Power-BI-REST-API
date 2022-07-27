@@ -1,5 +1,7 @@
 Pre-requisites to use the Power BI REST API
 
+<b>Tip 1: If you want to be have a own Sandbox to test this you can go to the Tip Folder and create your own environment</b><p>
+
 - Azure App (with permission for Power BI Service: like Dataset.read, Workspace.read
 
 To create the App you can go to Azure Portal and searching for Apps (https://portal.azure.com/):
