@@ -1,0 +1,61 @@
+{
+	"info": {
+		"_postman_id": "e19a3f68-40e9-4eb3-b2ac-e83546951fa9",
+		"name": "Get Workspaces",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17025063"
+	},
+	"item": [
+		{
+			"name": "https://api.powerbi.com/v1.0/myorg/groups",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "TOKEN",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {token}"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.powerbi.com/v1.0/myorg/groups",
+					"protocol": "https",
+					"host": [
+						"api",
+						"powerbi",
+						"com"
+					],
+					"path": [
+						"v1.0",
+						"myorg",
+						"groups"
+					]			
+					
+				},
+				"description": "GET Workspaces"
+			},
+			"response": []
+		}
+		]
+}
