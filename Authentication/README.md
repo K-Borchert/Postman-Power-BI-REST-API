@@ -28,7 +28,7 @@ Now you should be able to see a frame in the middle
 
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/63601923/181077289-8bad74ac-b5ac-4269-9ce5-ed5612d4a714.png">
 
-Click on body to fill in the needed Information to access the Power BI Service with the REAT API
+Click on body to fill in the needed Information to access the Power BI Service with the REST API
 
 <img width="928" alt="image" src="https://user-images.githubusercontent.com/63601923/181077479-1f5f1c1c-f16c-4168-b546-3e3b32ff8fd8.png">
 
