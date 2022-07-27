@@ -1,5 +1,9 @@
 # Postman-Power-BI-REST-API (in progress)
-This repository contains instructions on how to use Postman and Power BI REST API together.
+This repository contains instructions on how to use Postman and Power BI REST API together.<p>
+Information about Postman in general you can find here: <p>
+Learningcenter: https://learning.postman.com/docs/getting-started/introduction/ <p>
+Community: https://www.postman.com/community/<p>
+
 Let's start our Journey with how to get an Account in Postman.
 1. Starting with creating an Account here: https://web.postman.co/
 2. Use your own Workspace - "My Workspace" (If you like to share code later it would be better to have seperate Workspace, Personal workspaces are visible only to you for the first Step it would be better to use the own Workspace because we using sensitive Data to grab Data from the Power BI Tenant)
