@@ -57,4 +57,5 @@ Now your should be able to fill out the response
 
 Positive response & Token
 
-<img width="217" alt="image" src="https://user-images.githubusercontent.com/63601923/181195931-0e48eb30-a21e-452c-a5f8-8f3b81ad4182.png">
+<img width="1180" alt="image" src="https://user-images.githubusercontent.com/63601923/181201574-d6cda3bc-726d-41f7-a86f-f62adb2a7a64.png">
+
