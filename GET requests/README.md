@@ -1,4 +1,4 @@
-To create your first GET request you need to Import the GET Workspaces File.
+To create your first GET request you need to Import the <b>GET Workspaces</b> File.<p>
 As before you have two possibilities to do this:
 1. Download File and Import as File
 2. Copy code and fill it into RAW Text
@@ -15,7 +15,7 @@ After this you get a new Collection the left site
 
 Open the folder and click on the request, now you have to put in your TOKEN which you generated before (Folder: Authentication) only the Token without ""
 
-<img width="785" alt="image" src="https://user-images.githubusercontent.com/63601923/181204935-509d342c-5f2a-41a1-b5df-391fddd6c5ac.png">
+<img width="785" alt="image" src="https://user-images.githubusercontent.com/63601923/181204935-509d342c-5f2a-41a1-b5df-391fddd6c5ac.png"><p>
 
 After you put in the Token you can send the request, If you set all permissions from the Folder: Authentication and if the permsionss are granted from the
 Admin you should be able to get back your first request
