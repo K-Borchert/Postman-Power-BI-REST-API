@@ -16,7 +16,7 @@ In the most companies the Apps are not restircted so you can creat it by yoursel
 <img width="198" alt="image" src="https://user-images.githubusercontent.com/63601923/181196392-a0195f14-8d17-4fe5-bd2b-8f3879bb1eeb.png">
 
 
-All you have to do is to registre a new App
+All you have to do is to register a new App
 
 <img width="402" alt="image" src="https://user-images.githubusercontent.com/63601923/181196632-2f06a93a-2446-423c-81e7-a7cf31e64d58.png">
 
