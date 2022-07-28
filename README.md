@@ -7,3 +7,5 @@ This repository contains instructions on how to use Postman and Power BI REST AP
 2️⃣ Postman Account<p>
 3️⃣ Authentication <p>
 4️⃣ GET requests <p>
+
+✒️... more is in progress
