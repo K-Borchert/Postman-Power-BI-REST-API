@@ -80,19 +80,6 @@ Admin you should be able to get back your first request</td>
 </br>
 
 # GET Workspaces as User (with filter in Premium Capacity)
-<div id="badges">
-  <a href="https://www.linkedin.com/in/k-borchert/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC6nEaIKn3ffJG6otCqNSMlA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/Mirrortears">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<br>
-</br>
 
 If you now want to add a filter for example in our case in Premmium Capacity you can do this very easy.</b> File.<p>
 
