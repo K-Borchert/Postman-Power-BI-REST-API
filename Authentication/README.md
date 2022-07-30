@@ -1,6 +1,16 @@
 # Authentication
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-borchert/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mirrortears)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/k-borchert/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC6nEaIKn3ffJG6otCqNSMlA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Mirrortears">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <br>
 </br>
 First we need a methode to authenticate us against the Power BI Service, the easiest methode for the first time is to use the rigths as Power BI Admin. If your no Power BI Admin it's no problem there are also queries which can be send from "normal" Users.
