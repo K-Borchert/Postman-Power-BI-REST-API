@@ -1,9 +1,31 @@
-# GET request (GET Workspaces as User)
+# GET requests
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-borchert/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mirrortears)
 <br>
 </br>
+<table>
+  <tr>
+    <th>Request</th>
+    <th>Code Link</th>
+    <th> Description - How to?</th>
 
+  </tr>
+  <tr>
+    <td>GET Workspaces as User</td>
+      <td><a href="https://github.com/K-Borchert/Postman-Power-BI-REST-API/blob/main/GET%20requests/GET%20Workspace%20as%20User">Code</a></td>
+    <td><a href="https://github.com/K-Borchert/Postman-Power-BI-REST-API/edit/main/GET%20requests/README.md#get-request-get-workspaces-as-user">How to?</a></td>
+  </tr>
+  
+  <tr>
+    <td>GET Workspaces as User (with filter on Premium Capacity</td>
+    <td><a href="https://github.com/K-Borchert/Postman-Power-BI-REST-API/blob/main/GET%20requests/GET%20Workspaces%20as%20User%20(with%20filter%20on%20Premium%20Capacity)">Code</a></td>
+    <td><a href="<open>">How to?</a></td>
+</tr>
+</table>
+<br>
+</br>
+
+# GET request (GET Workspaces as User)
 To create your first GET request you need to Import the <b>GET Workspaces</b> File.<p>
 
 ## How to:
@@ -43,3 +65,31 @@ Admin you should be able to get back your first request</td>
 </tr>
 
 </table>
+<br>
+</br>
+
+# GET Workspaces as User (with filter in Premium Capacity)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-borchert/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mirrortears)
+<br>
+</br>
+
+If you now want to add a filter for example in our case in Premmium Capacity you can do this very easy.</b> File.<p>
+
+## How to:
+
+<table>
+  <tr>
+    <th>Description  </th>
+    <th>Screenshoot</th>
+
+  </tr>
+  <tr>
+    <td>As before you have two possibilities to do this:<br>
+    1. Download File and Import as File<br>
+    2. Copy code and fill it into RAW Text</td>
+    <td><img width="403" alt="image" src="https://user-images.githubusercontent.com/63601923/181204322-01e5382b-7c55-411f-9299-ef7445fb070f.png"></td>
+  </tr>
+  
+  <table>
+  
