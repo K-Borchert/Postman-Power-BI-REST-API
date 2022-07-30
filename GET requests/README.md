@@ -82,14 +82,22 @@ If you now want to add a filter for example in our case in Premmium Capacity you
   <tr>
     <th>Description  </th>
     <th>Screenshoot</th>
-
-  </tr>
-  <tr>
-    <td>As before you have two possibilities to do this:<br>
-    1. Download File and Import as File<br>
-    2. Copy code and fill it into RAW Text</td>
-    <td><img width="403" alt="image" src="https://user-images.githubusercontent.com/63601923/181204322-01e5382b-7c55-411f-9299-ef7445fb070f.png"></td>
   </tr>
   
-  <table>
+  <tr>
+    <td>Follow the Instruction on "GET Workspace as User" but with the File "Get Workspace as User (with filter on Premium Capacity)</td>
+    <td><img width="788" alt="image" src="https://user-images.githubusercontent.com/63601923/181906218-53bcd712-90e1-4fa8-9117-c10e6c026871.png"></td>
+  </tr>
+  
+ <tr>
+    <td>After Importing the new file above you will find an extra Parameter in your request</td>
+    <td><img width="893" alt="image" src="https://user-images.githubusercontent.com/63601923/181906341-d7cc5ccd-99e7-496c-bf7a-6aaed70f362f.png"></td>
+ </tr>  
+  
+ <tr>
+    <td>With this Parameter it will be possible to read out all Workspaces in a Premium Capacity. You can test it directly after putting in the TOKEN in the Authroization Area</td>
+    <td><img width="781" alt="image" src="https://user-images.githubusercontent.com/63601923/181906390-0db039c2-6164-4755-8b76-0e6d3edc0aa9.png"><br>
+      <img width="801" alt="image" src="https://user-images.githubusercontent.com/63601923/181906434-d462992b-9307-44bc-9b1f-10453b5fa312.png"></td>      
+</tr>
+    </table>
   
