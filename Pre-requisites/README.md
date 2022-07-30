@@ -1,4 +1,7 @@
 # Pre-requisites to use the Power BI REST API
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-borchert/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mirrortears)
+<br>
+</br>
 <b>Tip 1: If you want to be have a own Sandbox to test this you can go to the Tip Folder and create your own environment</b><p>
 <br>
 Create Azure App (with permission for Power BI Service: like Dataset.read, Workspace.read<p>
