@@ -19,7 +19,7 @@
   <tr>
     <td>GET Workspaces as User (with filter on Premium Capacity</td>
     <td><a href="https://github.com/K-Borchert/Postman-Power-BI-REST-API/blob/main/GET%20requests/GET%20Workspaces%20as%20User%20(with%20filter%20on%20Premium%20Capacity)">Code</a></td>
-    <td><a href="<open>">How to?</a></td>
+    <td><a href="https://github.com/K-Borchert/Postman-Power-BI-REST-API/blob/main/GET%20requests/README.md#get-workspaces-as-user-with-filter-in-premium-capacity">How to?</a></td>
 </tr>
 </table>
 <br>
