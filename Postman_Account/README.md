@@ -10,16 +10,17 @@
   <a href="https://twitter.com/Mirrortears">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <br>
 </div>
+<img width="267" alt="image" src="https://user-images.githubusercontent.com/63601923/182023590-e13aee02-1edc-469c-8a4d-50c3d070cefd.png">
 <br>
-</br>
 Information about Postman in general you can find here: <p>
 Learningcenter: https://learning.postman.com/docs/getting-started/introduction/ <p>
 Community: https://www.postman.com/community/<p>
 
 ## Attention
  To be able to use the Power BI Rest API to its full extent, it is recommended:
-- Be a Power BI Admin <br>
+- Be a Power BI Admin, no Power BI Admin? NO Problem - Got to <a href="https://github.com/K-Borchert/Postman-Power-BI-REST-API/tree/main/Tips">Tips</a> <br>
 or<br>
 - Have a Service Principle with all rights to use the Power BI REST API
 
