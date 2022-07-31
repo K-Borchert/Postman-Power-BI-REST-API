@@ -18,7 +18,13 @@ No Problem you can join the Micrsosot Office 365 Developer Program to create you
 https://developer.microsoft.com/en-us/microsoft-365/dev-program
 
 ## Attention
+<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vVegyymxA90fkY8jkE/giphy.gif" width="100"/>
+</div>
+<br>
 You don't need any permission from your Organization to start such an Environment! It is your own little Sandbox to play with.
+<br>
 <br>
 </br>
 
