@@ -87,7 +87,7 @@ Admin you should be able to get back your first request</td>
 <p><img src='https://user-images.githubusercontent.com/63601923/182029885-9aa93549-abe4-4e20-8c76-81fd1d798316.gif' alt="Image" height="520" width="880"></p>
 <br>
 
-If you now want to add a filter for example in our case on Premmium Capacity you can do this very easy.</b> File.<p>
+If you now want to add a filter for example in our case on Premium Capacity you can do this very easy.</b> File.<p>
 
 ## How to:
 
