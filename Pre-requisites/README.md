@@ -17,8 +17,12 @@
 Create Azure App (with permission for Power BI Service: like Dataset.read, Workspace.read<p>
 Attention: You need an Admin to grant permissions!<p>
 <br>
+
 ## How to?
 
+<br>
+<p><img src='https://user-images.githubusercontent.com/63601923/182024639-980e4da1-2efa-4db5-b2b6-db800dd5b62e.gif' alt="Image" height="520" width="780"></p>
+<br>
 <table>
   <tr>
     <th>Description</th>
