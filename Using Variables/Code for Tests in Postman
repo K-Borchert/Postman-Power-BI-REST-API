@@ -1,0 +1,5 @@
+bodydata = JSON.parse(responseBody)
+value =bodydata.access_token
+console.log(value)
+
+pm.globals.set("TOKEN", value);
