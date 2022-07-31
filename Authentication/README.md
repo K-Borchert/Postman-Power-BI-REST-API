@@ -13,7 +13,7 @@
 </div>
 <br>
 <br>
-<p><img src='https://user-images.githubusercontent.com/63601923/182024778-7f6835f0-6a27-4b2b-aef9-fc6268f603bb.gif' alt="Image" height="520" width="780"></p>
+<p><img src='https://user-images.githubusercontent.com/63601923/182024778-7f6835f0-6a27-4b2b-aef9-fc6268f603bb.gif' alt="Image" height="520" width="880"></p>
 <br>
 </br>
 First we need a methode to authenticate us against the Power BI Service, the easiest methode for the first time is to use the rigths as Power BI Admin. If your no Power BI Admin it's no problem there are also queries which can be send from "normal" Users.
