@@ -27,8 +27,18 @@ After we created a Token we don't want to put it everytime after refreshing it i
  </td>
 
   <tr>
-    <td></td>
-    <td></td>
- </td>
-
+    <td>In this step we will learn how to turn our Authorization Token into a variable <br> First we need to go to our "Power BI GET User Token" request in Postman<br> and open the Tests section</td>
+    <td><img width="639" alt="image" src="https://user-images.githubusercontent.com/63601923/182020270-865c85de-e3c1-4e3a-b43f-658cf620a64e.png"></td>
+ </tr>
+ 
+ <tr>
+    <td>Next we put in the <a href="https://github.com/K-Borchert/Postman-Power-BI-REST-API/blob/main/Using%20Variables/Code%20for%20Tests%20in%20Postman">"Code for Tests in Postman"</a></td>
+    <td><img width="207" alt="image" src="https://user-images.githubusercontent.com/63601923/182020684-f37a638e-8a36-4a39-947e-3fbf4dcb9e5a.png"></td>
+ </tr>
+ 
+  <tr>
+    <td>If you like to prove If the Token is now a variable<br> you can look into the Environment Quick Look</td>
+    <td><img width="718" alt="image" src="https://user-images.githubusercontent.com/63601923/182020504-128781b2-f447-40fe-9996-92e11b2bc6a3.png"></td>
+ </tr>
+ 
 </table>
