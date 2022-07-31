@@ -38,7 +38,10 @@
 
 # GET request (GET Workspaces as User)
 To create your first GET request you need to Import the <b>GET Workspaces</b> File.<p>
-
+<br>
+<p><img src='https://user-images.githubusercontent.com/63601923/182029841-4348e496-cf47-4fb9-88c7-5390398f050a.gif' alt="Image" height="520" width="880"></p>
+<br>
+  
 ## How to:
 
 <table>
@@ -79,9 +82,12 @@ Admin you should be able to get back your first request</td>
 <br>
 </br>
 
-# GET Workspaces as User (with filter in Premium Capacity)
+# GET Workspaces as User (with filter on Premium Capacity)
+<br>
+<p><img src='https://user-images.githubusercontent.com/63601923/182029885-9aa93549-abe4-4e20-8c76-81fd1d798316.gif' alt="Image" height="520" width="880"></p>
+<br>
 
-If you now want to add a filter for example in our case in Premmium Capacity you can do this very easy.</b> File.<p>
+If you now want to add a filter for example in our case on Premmium Capacity you can do this very easy.</b> File.<p>
 
 ## How to:
 
