@@ -26,6 +26,10 @@ or<br>
 
 ## Let's start our Journey with how to get an Account in Postman:
 
+<br>
+<p><img src='https://user-images.githubusercontent.com/63601923/182024850-22a3c7ed-135f-4fef-b167-ea1449ce3c63.gif' alt="Image" height="520" width="880"></p>
+<br>
+
 <table>
   <tr>
     <th>Description  </th>
