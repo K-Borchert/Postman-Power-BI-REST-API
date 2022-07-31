@@ -19,7 +19,7 @@ This repository contains instructions on how to use Postman and Power BI REST AP
 
 ❓<b> How to use this repository</b><p>
 
-1️⃣ Pre-requisites <p>
+1️⃣ Pre-requisites (💡"Tips" for non Admins)<p>
 2️⃣ Postman Account<p>
 3️⃣ Authentication <p>
 4️⃣ GET requests <p>
