@@ -17,6 +17,7 @@
 <br>
 This repository contains instructions on how to use Postman and Power BI REST API together.<p>
 
+
 ❓<b> How to use this repository</b><p>
 
 1️⃣ Pre-requisites (💡"Tips" for non Admins)<p>
@@ -27,3 +28,9 @@ This repository contains instructions on how to use Postman and Power BI REST AP
 6️⃣ Using the Collection Runner (in progress) <p>
 
 ✒️... more is in progress
+<br>
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/63601923/182033856-8a1dbc2c-f137-4fb0-9248-b50f1e26f021.png" width="100"/>
+</div>
+<br>
+
