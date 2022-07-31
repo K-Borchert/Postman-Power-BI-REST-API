@@ -23,7 +23,8 @@ After we created a Token we don't want to put it everytime after refreshing it i
   <tr>
     <td>Useful Links to learn <br> about Variable in Postman</td>
     <td>https://www.youtube.com/watch?v=HHASdmCR1bE = Great video to practice using Variables<br>
-    https://learning.postman.com/docs/sending-requests/variables/ = Postman Docs "Understanding Variables"</td>
+    https://learning.postman.com/docs/sending-requests/variables/ = Postman Docs "Understanding Variables"<br>
+    https://jsonpathfinder.com/ = To find the rigth value in you path</td>
  </td>
 
   <tr>
@@ -39,6 +40,18 @@ After we created a Token we don't want to put it everytime after refreshing it i
   <tr>
     <td>If you like to prove If the Token is now a variable<br> you can look into the Environment Quick Look</td>
     <td><img width="718" alt="image" src="https://user-images.githubusercontent.com/63601923/182020504-128781b2-f447-40fe-9996-92e11b2bc6a3.png"></td>
+ </tr>
+ 
+   <tr>
+    <td>The Line "console.log(value)" make <br>it possible to check your request headers in the console.<br> You can find the consol in the lower left corner</td>
+    <td><img width="140" alt="image" src="https://user-images.githubusercontent.com/63601923/182020839-0579f03a-3b85-43dd-a901-f2ff57cfea24.png">
+</td>
+ </tr>
+ 
+   <tr>
+    <td>At last you can put in the Token variable in our "GET Workspace" request <br> in the Authorization section.<br> You can use variables if you us the {{}}</td>
+    <td><img width="990" alt="image" src="https://user-images.githubusercontent.com/63601923/182021045-0ce87df4-ab02-47f3-b221-ccea5ded4e2c.png">
+</td>
  </tr>
  
 </table>
