@@ -13,6 +13,9 @@
 </div>
 <br>
 </br>
+<p><img src="image/example.jpg" alt="Example1" width="193" height="130"> (width:193px, height:130px)</p>
+<br>
+</br>
 First we need a methode to authenticate us against the Power BI Service, the easiest methode for the first time is to use the rigths as Power BI Admin. If your no Power BI Admin it's no problem there are also queries which can be send from "normal" Users.
 So let's take the code snippiet GET Admin Token and import it into Postman. 
 
