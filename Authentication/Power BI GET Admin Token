@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "bc5b910e-9c7f-4de5-b7ca-e5cd1f567bdc",
-		"name": "Power BI GET Admin Token",
+		"name": "Power BI GET Token",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "17025063"
 	},
