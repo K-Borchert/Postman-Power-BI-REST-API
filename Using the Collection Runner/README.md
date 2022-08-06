@@ -1,4 +1,4 @@
-# In Progress
+# Collection Runner
 
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/k-borchert/">
@@ -22,6 +22,23 @@ The Collection Runner is perfect for automation processes. For example you need 
 
 
 <br>
+<table>
+  <tr>
+    <th>Description</th>
+    <th>Links</th>
+
+  </tr>
+  <tr>
+    <td>Use Variables in Postman</td>
+      <td><a href="https://learning.postman.com/docs/sending-requests/variables/">Here</a></td>
+  </tr>
+  
+  <tr>
+    <td>Extracting data from responses and chaining requests in Postman</td>
+    <td><a href="https://blog.postman.com/extracting-data-from-responses-and-chaining-requests/">Here</a></td>
+</tr>
+</table>
+<br>
 
 ## How to?
 
@@ -39,12 +56,13 @@ The Collection Runner is perfect for automation processes. For example you need 
   </tr>
  
   <tr>
-    <td> Next we create import our "Get User Token" and our "Get Workspaces" in our collection</td>
+    <td> Next we create import our "Get User Token" and our "Get Workspaces" (<a href="https://github.com/K-Borchert/Postman-Power-BI-REST-API/blob/main/GET%20requests/GET%20Workspace%20as%20User">Code</a>) in our collection. </td>
       <td><img width="260" alt="image" src="https://user-images.githubusercontent.com/63601923/183253492-55fb209f-c996-4f2c-a970-504573ad7b71.png"></td>      
   </tr>
    
   <tr>
-    <td> Now we put the "Test Script" into the Test section of our "Get User Token" request.<br> This time I use an enviromental variable.<br> To create an environmental Variable you need to create a environment first.<br> To create an environment click the 3 icon on the left side bar.</td>
+    <td> Now we put the "Test Script" into the Test section of our "Get User Token" (<a href="https://github.com/K-Borchert/Postman-Power-BI-REST-API/blob/main/Authentication/Power%20BI%20GET%20User%20Token request">Code</a>).
+    <br> This time I use an enviromental variable.<br> To create an environmental Variable you need to create a environment first.<br> To create an environment click the 3 icon on the left side bar.</td>
       <td> <img width="485" alt="image" src="https://user-images.githubusercontent.com/63601923/183253586-9ba27d71-8ab4-4a9b-bdcc-cc92b6c2e858.png">
       <br>
       <img width="72" alt="image" src="https://user-images.githubusercontent.com/63601923/183253718-4002ac54-cb13-4f0b-9a78-5280782128c1.png">
