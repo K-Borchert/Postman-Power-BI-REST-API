@@ -26,7 +26,7 @@ This repository contains instructions on how to use Postman and Power BI REST AP
 4️⃣ GET requests <p>
 5️⃣ Using Variables <p>
 6️⃣ Using the Collection Runner<p>
-7️⃣ In progress...
+7️⃣ ...
 
 ✒️... more is in progress
 <br>
