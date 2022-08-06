@@ -1,0 +1,5 @@
+bodydata = JSON.parse(responseBody)
+value =bodydata.value[1].id
+console.log(value)
+
+pm.environment.set("WID", value);
