@@ -1,4 +1,4 @@
-# POST requests
+# POST requests (in Progress)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/k-borchert/">
@@ -11,6 +11,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100"/>
+</div>
+
 <br>
 In this section we will learn how to use a POST request and for what you can use a POST request.
 
