@@ -16,9 +16,34 @@
 </div>
 <br>
 This repository contains instructions on how to use Postman and Power BI REST API together.<p>
+<br>
 
+## Helpful Links
 
-❓<b> How to use this repository</b><p>
+<table>
+<tr>
+<th>Links</th>
+<th>Description</th>
+</tr>
+<tr>
+<td><a href="https://docs.microsoft.com/en-us/rest/api/power-bi/?WT.mc_id=AZ-MVP-5003494">Link</a></td>
+<td>Microsoft Documentation for Power BI REST API</td>
+</tr>
+
+<tr>
+<td><a href="https://learning.postman.com/docs/getting-started/introduction/">Link</a></td>
+<td>Postman Documentation</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/tirnovar/Power_BI_REST_API_PQ">Link</a></td>
+<td>Power BI API with Power Query</td>
+</tr>
+
+</table>
+<br>
+
+## How to use this repository
 
 1️⃣ Pre-requisites (💡"Tips" for non Admins)<p>
 2️⃣ Postman Account<p>
@@ -34,4 +59,6 @@ This repository contains instructions on how to use Postman and Power BI REST AP
   <img src="https://user-images.githubusercontent.com/63601923/182033856-8a1dbc2c-f137-4fb0-9248-b50f1e26f021.png" width="100"/>
 </div>
 <br>
+
+
 
