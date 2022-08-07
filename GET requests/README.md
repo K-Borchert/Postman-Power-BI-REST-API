@@ -47,7 +47,7 @@ To create your first GET request you need to Import the <b>GET Workspaces</b> Fi
 <table>
   <tr>
     <th>Description  </th>
-    <th>Screenshoot</th>
+    <th>Screenshot</th>
 
   </tr>
   <tr>
