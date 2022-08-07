@@ -53,7 +53,7 @@ In this section we will learn how to use a POST request and for what you can use
   
 <tr>
     <td> Next go to the body section and put in the Permission (Admin, Contributor, Member, Viewer) <br> and the EMail adress of the new User </td>
-    <td> <img width="511" alt="image" src="https://user-images.githubusercontent.com/63601923/183298115-b0b564cd-3289-42df-8619-ad5e922e218c.png"> </td>
+    <td> <img width="309" alt="image" src="https://user-images.githubusercontent.com/63601923/183299975-b57b58f6-85b5-431f-ae55-ccbb4716e30b.png"> </td>
 </tr>
   
 <tr>
@@ -66,9 +66,7 @@ In this section we will learn how to use a POST request and for what you can use
     <td> <img width="458" alt="image" src="https://user-images.githubusercontent.com/63601923/183298839-a0da1f62-1222-4ae7-86d1-d311b6407492.png">
       <br>
       <br>
-      <img width="417" alt="image" src="https://user-images.githubusercontent.com/63601923/183298893-c2bc7732-3a64-4258-8c68-67c1a13bd75c.png"> /<br>
-
- </td>
+      <img width="417" alt="image" src="https://user-images.githubusercontent.com/63601923/183298893-c2bc7732-3a64-4258-8c68-67c1a13bd75c.png"> </td>
 </tr>
   
 </table>
