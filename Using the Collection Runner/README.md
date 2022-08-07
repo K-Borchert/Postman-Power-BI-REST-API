@@ -13,9 +13,6 @@
     </a></div>
     <br>
     <br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="100"/>
-</div>
 
 ## Why should we use Collection Runner?
 The Collection Runner is perfect for automation processes. For example you need to add a specific Security Group into every new Workspace. Now you can use the Collection Runner to do that. In the first step you need the authentication process. After that you can grad with "Get Workspaces" every new Workspace with some filters. And at last you can use a Post request to push the Security Group into the new Workspaces. Of course you need to do some adjustments to my Demo here to archieve this but it will safe you a lot of time 😉
