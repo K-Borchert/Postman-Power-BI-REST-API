@@ -1,0 +1,54 @@
+{
+	"info": {
+		"_postman_id": "4e847e45-7a75-4b34-b0ab-97a204e15b62",
+		"name": "Add new User with permission to Workspace",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17025063"
+	},
+	"item": [
+		{
+			"name": "https://api.powerbi.com/v1.0/myorg/admin/groups/<WorkspaceID>/users",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{TOKEN}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"AppID\": \"<WorkspaceID\",\r\n  \"groupUserAccessRight>\": \"<Workspace-Rigth>\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.powerbi.com/v1.0/myorg/<Workspace-Rigth>/groups/<WorkspaceID>/users",
+					"protocol": "https",
+					"host": [
+						"api",
+						"powerbi",
+						"com"
+					],
+					"path": [
+						"v1.0",
+						"myorg",
+						"<Workspace-Rigth>",
+						"groups",
+						"<WorkspaceID>",
+						"users"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
