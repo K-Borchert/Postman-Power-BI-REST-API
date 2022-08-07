@@ -18,6 +18,7 @@
 
 <br>
 In this section we will learn how to use a POST request and for what you can use a POST request.
+⚠️ For this request you need to be Power BI Admin or Global Admin!
 
 <br>
 
