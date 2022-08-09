@@ -1,4 +1,4 @@
-# POST requests (in Progress)
+# POST requests
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/k-borchert/">
